@@ -1,0 +1,19 @@
+[
+    {   
+        "titulo" : "comprar agua",
+        "estado" : "pendiente"
+
+
+    },
+    {
+        "titulo" : "comprar carne",
+        "estado" : "pendiente"
+
+    },
+    {
+        "titulo" : "comprar frutiños",
+        "estado" : "pendiente"
+    }
+      
+
+]
