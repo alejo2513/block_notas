@@ -1,0 +1,7 @@
+[
+    {
+        carros : "rojos",
+        autos : "verdes"
+    }
+
+]
